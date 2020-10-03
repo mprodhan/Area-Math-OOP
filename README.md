@@ -1,4 +1,4 @@
 This Python Object Oriented Programming exercise takes into account area of a square or rectangle. At the base of a math formula, area will have length and width as the common factor. The formula of the area of a square or rectangle is:
                 area = length * width
 
-The area is the solution from length and width multiplied of which a unit of measurement is then squared.
+The area is the solution from length and width multiplied of which a unit of measurement is then squared. For rectangles, the length is its own value and the width is its own value. Thus the difference between a square and a rectangle will be that, you can always sqaure a side on a square which affirms that all sides of a square is equal. On the other hand, a rectangle can have a length of 6 and a with of 2 result in 12. 
